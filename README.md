@@ -79,7 +79,6 @@ amazon-sql-project/
 ├── Amazon_Schemas.sql               -- Table creation scripts
 ├── Problems_Statements.sql          -- 22 advanced problem statements
 ├── solutions.sql                    -- Full solutions with explanations
-├── 50_Easy_to_Medium_Level_Questions.md  -- 50 additional problems
 ├── erd.png                          -- Final ERD
 ├── erd2.png                         -- ERD design sketch
 └── README.md
