@@ -21,8 +21,6 @@
   - [Easy to Medium Problems (50)](#easy-to-medium-problems)
 - [Key SQL Concepts Used](#-key-sql-concepts-used)
 - [Learning Outcomes](#-learning-outcomes)
-- [How to Run](#-how-to-run)
-- [Contributing](#-contributing)
 
 ---
 
