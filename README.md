@@ -155,8 +155,6 @@ Challenging queries that reflect real business decision-making:
 
 ### Easy to Medium Problems
 
-50 additional SQL exercises are documented in [`50_Easy_to_Medium_Level_Questions.md`](50_Easy_to_Medium_Level_Questions.md), covering:
-
 | Category | Topics |
 |---|---|
 | Basic Queries & Joins | SELECT, INNER/LEFT/RIGHT/CROSS JOIN, multi-table joins |
