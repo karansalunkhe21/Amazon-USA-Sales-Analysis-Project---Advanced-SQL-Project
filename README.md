@@ -39,10 +39,10 @@ The project is split into two tiers:
 ## 🗂 Database Schema & ERD
 
 ### ERD Diagram (Design Sketch)
-![ERD Sketch](Entity Relationship Diagram/erd2.png)
+![ERD Sketch](Entity%20relationship%20Diagram/erd2.png)
 
 ### ERD Diagram (Final)
-![ERD](erd.png)
+![ERD](Entity%20relationship%20Diagram/erd.png)
 
 The database consists of **9 relational tables**:
 
