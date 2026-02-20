@@ -39,7 +39,7 @@ The project is split into two tiers:
 ## 🗂 Database Schema & ERD
 
 ### ERD Diagram (Design Sketch)
-![ERD Sketch](erd2.png)
+![ERD Sketch](Entity Relationship Diagram/erd2.png)
 
 ### ERD Diagram (Final)
 ![ERD](erd.png)
